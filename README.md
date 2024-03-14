@@ -3,7 +3,7 @@
 
 - 이건 목록의 첫번째 아이템입니다.
 
-''' python
+'''python
 import json
 js = json.load(open('abc.json'))
 '''
